@@ -6,7 +6,7 @@ Además, incorpora un **modo oscuro/claro** y **cambio de idioma de ingles a esp
 
 ---
 
-## 🚀 Características
+## Características
 
 - Contador de caracteres.
 - Opción para excluir espacios del conteo.
@@ -22,7 +22,7 @@ Además, incorpora un **modo oscuro/claro** y **cambio de idioma de ingles a esp
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - React
 - JavaScript (ES6+)
@@ -31,7 +31,7 @@ Además, incorpora un **modo oscuro/claro** y **cambio de idioma de ingles a esp
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 src/
@@ -51,7 +51,7 @@ src/
 Clonar el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/character-counter.git
+git clone https://github.com/marcewsosa1981-ai/Character-counter-final.
 ```
 
 Ingresar a la carpeta
@@ -155,6 +155,6 @@ Proyecto realizado como práctica de **React**, aplicando conceptos de estado, c
 
 ---
 
-## ⭐ Agradecimientos
+## Agradecimientos
 
 Este proyecto fue una excelente oportunidad para seguir aprendiendo React y profundizar conceptos como **useState**, **useEffect**, renderizado dinámico y almacenamiento local.
