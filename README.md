@@ -74,6 +74,10 @@ npm run dev
 
 ---
 
+## pagina web atravez de vercel.com
+
+https://character-counter-final-4ylr.vercel.app/
+
 ## Funcionalidades
 
 ### Contador de caracteres
