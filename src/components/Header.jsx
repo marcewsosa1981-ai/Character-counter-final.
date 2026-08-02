@@ -2,7 +2,13 @@ const Header = ({ darkMode, setDarkMode }) => {
   return (
     <header className="header">
       <div className="logo">
-        <img src="./public/logo.jpeg" width={25} alt="icon"></img>
+        <img
+          src="https://i.ibb.co/kgr7MRNJ/logo.jpg"
+          width={25}
+          alt="logo"
+          border="0"
+        ></img>
+
         <h1>Character Counter</h1>
       </div>
 
